@@ -5,6 +5,7 @@ Testing ELK solution with Docker
 ## Quick build:
 
 `$ export ELK_VERSION=7.2.0`
+
 `$ docker-compose up`
 
 ## Adding extensions
